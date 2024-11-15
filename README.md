@@ -1,16 +1,6 @@
 # ECOMMERCE
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sanika%20Ghorpade-red)
----
-## screenshots
-### Admin Dashboard
-![dashboard snap](https://github.com/sanikaghorpade/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
-### Customer Homepage
-![homepage snap](https://github.com/sanikaghorpade/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
-### Cart
-![cart snap](https://github.com/sanikaghorpade/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
-### Track Orders
-![orders snap](https://github.com/sanikaghorpade/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
----
+
 ## FUNCTIONS
 ## Customer
 - Customer can view/search products without login.
